@@ -1,0 +1,14 @@
+{
+  "name": "vista-voyager",
+  "version": "1.0.0",
+  "description": "Vista Voyager - Voyager Intelligence System for Travel Assistance (MERN full-stack project)",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "seed": "npm --prefix server run seed",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build"
+  }
+}
