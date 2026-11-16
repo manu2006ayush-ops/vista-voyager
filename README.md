@@ -74,7 +74,7 @@ VISTA-VOYAGER/
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | `admin@vistavoyager.com` | `Admin@123` |
+| Admin | `admin@vistavoyager.com` | `` |
 | User | *(create your own via Sign Up)* | — |
 
 ---
